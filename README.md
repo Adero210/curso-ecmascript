@@ -25,3 +25,9 @@ console.log(name, age, country); }>
 > - Parametros en objetos :como se pasa los parametros a objetos en es6
 > - Arrow functions : el uso e identificacion de las arrow functions
 > - Promesas: se usa un ejemplo para entender el funcionamiento de las promesas.
+
+### Clase 4
+
+> - Clases en es6
+> - Exportar e importar modulos
+> - Generators
