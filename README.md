@@ -31,3 +31,18 @@ console.log(name, age, country); }>
 > - Clases en es6
 > - Exportar e importar modulos
 > - Generators
+
+### Clase 5
+
+#### Ecmascript 7
+
+> - Solo explica que se añadio varias funciones
+>   > - array.includes (revisa si un array contiene el elemento que pasas por parametro )
+>   > - elevar un numero a la potencia con el doble asterisco
+
+### Clase 6
+
+#### Ecmascript 8
+
+> - Explica como se convierte un objeto a un arreglo con Object.entries y como obtener valores de un objeto y convertilo a un array con Object.values
+> - Un ejemplo de como se le puede añadir un padding a un string de sus laterales
